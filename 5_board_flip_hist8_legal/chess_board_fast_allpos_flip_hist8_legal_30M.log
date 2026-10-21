@@ -1,0 +1,246 @@
+2026-10-08 22:49:21 16M finished (_decayed.pt found), starting 30M
+val positions: 3,001,640
+Total parameters: 31.46M, batch 256, bf16 True
+Loss at step 0: train 7.8020, val 7.7765, val acc 0.0%, legal loss 161.607, illegal mass 98.3%, lr 1.50e-07, 20 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 1000: train 5.4005, val 4.0589, val acc 17.2%, legal loss 70.884, illegal mass 74.0%, lr 1.50e-04, 711 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 2000: train 3.5738, val 3.2716, val acc 22.6%, legal loss 16.091, illegal mass 37.4%, lr 3.00e-04, 688 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 3000: train 3.0883, val 2.9456, val acc 27.1%, legal loss 9.166, illegal mass 25.4%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 4000: train 2.8961, val 2.8573, val acc 27.7%, legal loss 6.733, illegal mass 21.3%, lr 3.00e-04, 700 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 5000: train 2.7918, val 2.7552, val acc 29.5%, legal loss 5.379, illegal mass 19.3%, lr 3.00e-04, 689 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 6000: train 2.7189, val 2.6639, val acc 30.8%, legal loss 4.480, illegal mass 18.0%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 7000: train 2.6624, val 2.6523, val acc 31.4%, legal loss 3.818, illegal mass 17.0%, lr 3.00e-04, 691 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 8000: train 2.6135, val 2.6193, val acc 31.8%, legal loss 3.368, illegal mass 16.3%, lr 3.00e-04, 692 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 9000: train 2.5815, val 2.6065, val acc 31.7%, legal loss 3.014, illegal mass 15.8%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 10000: train 2.5523, val 2.5335, val acc 32.7%, legal loss 2.729, illegal mass 15.2%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 11000: train 2.5267, val 2.5184, val acc 32.8%, legal loss 2.455, illegal mass 14.7%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 12000: train 2.5075, val 2.5041, val acc 33.9%, legal loss 2.306, illegal mass 14.5%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 13000: train 2.4812, val 2.4595, val acc 34.0%, legal loss 2.112, illegal mass 14.1%, lr 3.00e-04, 691 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 14000: train 2.4587, val 2.4207, val acc 35.0%, legal loss 1.977, illegal mass 13.8%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 15000: train 2.4408, val 2.4259, val acc 35.0%, legal loss 1.898, illegal mass 13.6%, lr 3.00e-04, 692 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 16000: train 2.4186, val 2.4175, val acc 35.4%, legal loss 1.784, illegal mass 13.4%, lr 3.00e-04, 706 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 17000: train 2.4059, val 2.4202, val acc 35.3%, legal loss 1.711, illegal mass 13.2%, lr 3.00e-04, 689 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 18000: train 2.3872, val 2.3781, val acc 35.5%, legal loss 1.618, illegal mass 13.0%, lr 3.00e-04, 703 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 19000: train 2.3725, val 2.3836, val acc 36.3%, legal loss 1.531, illegal mass 12.8%, lr 3.00e-04, 690 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 20000: train 2.3590, val 2.3440, val acc 36.6%, legal loss 1.462, illegal mass 12.5%, lr 3.00e-04, 702 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 21000: train 2.3480, val 2.3518, val acc 37.0%, legal loss 1.418, illegal mass 12.5%, lr 3.00e-04, 697 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 22000: train 2.3381, val 2.3282, val acc 36.9%, legal loss 1.362, illegal mass 12.3%, lr 3.00e-04, 702 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 23000: train 2.3270, val 2.3486, val acc 37.3%, legal loss 1.327, illegal mass 12.2%, lr 3.00e-04, 695 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 24000: train 2.3268, val 2.3243, val acc 37.3%, legal loss 1.268, illegal mass 12.1%, lr 3.00e-04, 703 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 25000: train 2.3096, val 2.3002, val acc 37.9%, legal loss 1.199, illegal mass 11.9%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 26000: train 2.2998, val 2.2997, val acc 38.0%, legal loss 1.207, illegal mass 11.8%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 27000: train 2.2868, val 2.2964, val acc 37.9%, legal loss 1.158, illegal mass 11.7%, lr 3.00e-04, 696 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 28000: train 2.2859, val 2.2536, val acc 39.3%, legal loss 1.104, illegal mass 11.6%, lr 3.00e-04, 691 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 29000: train 2.2748, val 2.2713, val acc 38.5%, legal loss 1.090, illegal mass 11.6%, lr 3.00e-04, 695 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 30000: train 2.2605, val 2.2842, val acc 38.3%, legal loss 1.056, illegal mass 11.4%, lr 3.00e-04, 708 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 31000: train 2.2606, val 2.2635, val acc 38.4%, legal loss 1.034, illegal mass 11.4%, lr 3.00e-04, 707 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 32000: train 2.2424, val 2.2656, val acc 38.7%, legal loss 1.006, illegal mass 11.1%, lr 3.00e-04, 699 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 33000: train 2.2468, val 2.2380, val acc 39.0%, legal loss 0.982, illegal mass 11.2%, lr 3.00e-04, 707 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 34000: train 2.2365, val 2.2426, val acc 39.2%, legal loss 0.960, illegal mass 11.1%, lr 3.00e-04, 695 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 35000: train 2.2275, val 2.2019, val acc 39.9%, legal loss 0.931, illegal mass 10.9%, lr 3.00e-04, 705 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 36000: train 2.2294, val 2.2343, val acc 39.3%, legal loss 0.921, illegal mass 10.9%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 37000: train 2.2191, val 2.2086, val acc 39.9%, legal loss 0.884, illegal mass 10.9%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 38000: train 2.2072, val 2.1936, val acc 40.0%, legal loss 0.875, illegal mass 10.8%, lr 3.00e-04, 706 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 39000: train 2.2011, val 2.2187, val acc 39.6%, legal loss 0.854, illegal mass 10.7%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 40000: train 2.1993, val 2.1819, val acc 40.4%, legal loss 0.833, illegal mass 10.6%, lr 3.00e-04, 706 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 41000: train 2.1899, val 2.1735, val acc 40.9%, legal loss 0.838, illegal mass 10.6%, lr 3.00e-04, 690 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 42000: train 2.1926, val 2.1884, val acc 40.3%, legal loss 0.815, illegal mass 10.6%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 43000: train 2.1820, val 2.1664, val acc 40.6%, legal loss 0.807, illegal mass 10.4%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 44000: train 2.1764, val 2.1939, val acc 40.1%, legal loss 0.772, illegal mass 10.4%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 45000: train 2.1736, val 2.1671, val acc 40.9%, legal loss 0.748, illegal mass 10.3%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 46000: train 2.1717, val 2.1643, val acc 40.9%, legal loss 0.745, illegal mass 10.3%, lr 3.00e-04, 705 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 47000: train 2.1668, val 2.1431, val acc 41.1%, legal loss 0.759, illegal mass 10.2%, lr 3.00e-04, 697 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 48000: train 2.1591, val 2.1615, val acc 40.7%, legal loss 0.738, illegal mass 10.2%, lr 3.00e-04, 692 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 49000: train 2.1579, val 2.1598, val acc 40.9%, legal loss 0.725, illegal mass 10.1%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 50000: train 2.1591, val 2.1503, val acc 41.4%, legal loss 0.717, illegal mass 10.1%, lr 3.00e-04, 706 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 51000: train 2.1452, val 2.1493, val acc 40.5%, legal loss 0.697, illegal mass 10.0%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 52000: train 2.1440, val 2.1424, val acc 40.9%, legal loss 0.698, illegal mass 10.0%, lr 3.00e-04, 704 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 53000: train 2.1376, val 2.1421, val acc 41.5%, legal loss 0.678, illegal mass 10.0%, lr 3.00e-04, 696 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 54000: train 2.1370, val 2.1284, val acc 41.0%, legal loss 0.671, illegal mass 9.9%, lr 3.00e-04, 692 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 55000: train 2.1358, val 2.1265, val acc 41.7%, legal loss 0.661, illegal mass 9.9%, lr 3.00e-04, 697 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 56000: train 2.1252, val 2.1481, val acc 41.4%, legal loss 0.648, illegal mass 9.8%, lr 3.00e-04, 692 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 57000: train 2.1292, val 2.1068, val acc 41.6%, legal loss 0.660, illegal mass 9.8%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 58000: train 2.1228, val 2.1183, val acc 41.9%, legal loss 0.644, illegal mass 9.7%, lr 3.00e-04, 691 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 59000: train 2.1208, val 2.1168, val acc 41.7%, legal loss 0.626, illegal mass 9.7%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 60000: train 2.1203, val 2.1107, val acc 41.7%, legal loss 0.624, illegal mass 9.7%, lr 3.00e-04, 703 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 61000: train 2.1101, val 2.1101, val acc 41.9%, legal loss 0.626, illegal mass 9.6%, lr 3.00e-04, 709 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 62000: train 2.1095, val 2.1200, val acc 41.3%, legal loss 0.606, illegal mass 9.5%, lr 3.00e-04, 704 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 63000: train 2.1064, val 2.0972, val acc 42.2%, legal loss 0.609, illegal mass 9.5%, lr 3.00e-04, 707 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 64000: train 2.1004, val 2.1067, val acc 42.1%, legal loss 0.593, illegal mass 9.5%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 65000: train 2.1078, val 2.1126, val acc 42.2%, legal loss 0.586, illegal mass 9.4%, lr 3.00e-04, 708 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 66000: train 2.0950, val 2.1059, val acc 41.9%, legal loss 0.592, illegal mass 9.5%, lr 3.00e-04, 706 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 67000: train 2.0954, val 2.0831, val acc 43.0%, legal loss 0.571, illegal mass 9.4%, lr 3.00e-04, 701 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 68000: train 2.0923, val 2.0905, val acc 41.8%, legal loss 0.573, illegal mass 9.3%, lr 3.00e-04, 690 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 69000: train 2.0896, val 2.0974, val acc 41.8%, legal loss 0.565, illegal mass 9.3%, lr 3.00e-04, 705 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 70000: train 2.0891, val 2.0823, val acc 42.7%, legal loss 0.571, illegal mass 9.3%, lr 3.00e-04, 708 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 71000: train 2.0854, val 2.0753, val acc 42.6%, legal loss 0.550, illegal mass 9.3%, lr 3.00e-04, 692 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 72000: train 2.0779, val 2.0722, val acc 42.8%, legal loss 0.548, illegal mass 9.2%, lr 3.00e-04, 691 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 73000: train 2.0780, val 2.0817, val acc 42.5%, legal loss 0.544, illegal mass 9.2%, lr 3.00e-04, 691 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 74000: train 2.0765, val 2.0816, val acc 42.4%, legal loss 0.533, illegal mass 9.1%, lr 3.00e-04, 707 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 75000: train 2.0803, val 2.0764, val acc 42.8%, legal loss 0.538, illegal mass 9.2%, lr 3.00e-04, 703 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 76000: train 2.0747, val 2.0822, val acc 42.8%, legal loss 0.530, illegal mass 9.1%, lr 3.00e-04, 701 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 77000: train 2.0715, val 2.0697, val acc 42.6%, legal loss 0.522, illegal mass 9.1%, lr 3.00e-04, 703 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 78000: train 2.0667, val 2.0690, val acc 42.6%, legal loss 0.519, illegal mass 9.0%, lr 3.00e-04, 693 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 79000: train 2.0661, val 2.0616, val acc 43.3%, legal loss 0.520, illegal mass 9.1%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 80000: train 2.0618, val 2.0825, val acc 42.8%, legal loss 0.506, illegal mass 9.0%, lr 3.00e-04, 688 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 81000: train 2.0574, val 2.0650, val acc 43.1%, legal loss 0.507, illegal mass 9.0%, lr 3.00e-04, 701 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 82000: train 2.0537, val 2.0620, val acc 42.6%, legal loss 0.504, illegal mass 8.9%, lr 3.00e-04, 705 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 83000: train 2.0628, val 2.0559, val acc 43.1%, legal loss 0.500, illegal mass 8.9%, lr 3.00e-04, 705 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 84000: train 2.0588, val 2.0522, val acc 43.0%, legal loss 0.496, illegal mass 8.9%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 85000: train 2.0525, val 2.0703, val acc 42.6%, legal loss 0.482, illegal mass 8.8%, lr 3.00e-04, 694 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 86000: train 2.0504, val 2.0357, val acc 43.1%, legal loss 0.497, illegal mass 8.9%, lr 3.00e-04, 705 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 87000: train 2.0524, val 2.0370, val acc 43.4%, legal loss 0.488, illegal mass 8.9%, lr 3.00e-04, 689 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 88000: train 2.0492, val 2.0476, val acc 43.3%, legal loss 0.482, illegal mass 8.9%, lr 3.00e-04, 707 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 89000: train 2.0423, val 2.0316, val acc 43.3%, legal loss 0.484, illegal mass 8.7%, lr 3.00e-04, 704 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_best.pt
+Loss at step 90000: train 2.0399, val 2.0525, val acc 43.2%, legal loss 0.480, illegal mass 8.8%, lr 3.00e-04, 692 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 91000: train 2.0452, val 2.0526, val acc 43.3%, legal loss 0.473, illegal mass 8.8%, lr 3.00e-04, 704 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 92000: train 2.0366, val 2.0468, val acc 43.2%, legal loss 0.464, illegal mass 8.7%, lr 3.00e-04, 702 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 93000: train 2.0386, val 2.0456, val acc 43.8%, legal loss 0.477, illegal mass 8.7%, lr 3.00e-04, 707 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 94000: train 2.0361, val 2.0345, val acc 42.9%, legal loss 0.458, illegal mass 8.6%, lr 3.00e-04, 705 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 95000: train 2.0371, val 2.0396, val acc 43.8%, legal loss 0.458, illegal mass 8.7%, lr 3.00e-04, 704 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt
+Loss at step 96000: train 2.0426, val 2.0428, val acc 43.2%, legal loss 0.450, illegal mass 8.7%, lr 3.00e-04, 703 positions/s
+Model saved to /home/aidev4/PycharmProjects/Datascience/chess_gpt/5_board_flip_hist8_legal/inference/chess_board_fast_allpos_flip_hist8_legal_30M_latest.pt

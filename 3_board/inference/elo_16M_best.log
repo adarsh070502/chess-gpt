@@ -1,0 +1,609 @@
+checkpoint chess_board_best.pt (step 49500), 600 games, model elo token 2400, Stockfish 0.1s/move
+[  1/600] SF 1320  model W  score 0.0  checkmate            plies  50  illegal mass 10.5%
+[  2/600] SF 1320  model B  score 0.0  checkmate            plies  57  illegal mass 10.4%
+[  3/600] SF 1320  model B  score 0.5  stalemate            plies  80  illegal mass 8.1%
+[  4/600] SF 1320  model W  score 0.0  checkmate            plies  72  illegal mass 8.0%
+[  5/600] SF 1320  model B  score 0.0  checkmate            plies  81  illegal mass 9.8%
+[  6/600] SF 1320  model W  score 0.0  checkmate            plies  86  illegal mass 15.8%
+[  7/600] SF 1320  model W  score 0.5  threefold_repetition plies 106  illegal mass 18.8%
+[  8/600] SF 1320  model B  score 0.0  checkmate            plies 105  illegal mass 21.0%
+[  9/600] SF 1320  model B  score 1.0  checkmate            plies 110  illegal mass 16.4%
+[ 10/600] SF 1320  model W  score 0.0  checkmate            plies 108  illegal mass 21.8%
+[ 11/600] SF 1320  model W  score 0.0  checkmate            plies 126  illegal mass 20.7%
+[ 12/600] SF 1320  model B  score 0.0  checkmate            plies 149  illegal mass 27.4%
+[ 13/600] SF 1320  model W  score 0.0  checkmate            plies  76  illegal mass 21.7%
+[ 14/600] SF 1320  model B  score 0.0  checkmate            plies  69  illegal mass 9.8%
+[ 15/600] SF 1320  model W  score 0.0  checkmate            plies  74  illegal mass 13.1%
+[ 16/600] SF 1320  model B  score 0.0  checkmate            plies  51  illegal mass 11.4%
+[ 17/600] SF 1320  model B  score 0.0  checkmate            plies 105  illegal mass 21.0%
+[ 18/600] SF 1320  model W  score 1.0  checkmate            plies  71  illegal mass 10.7%
+[ 19/600] SF 1320  model W  score 0.0  checkmate            plies  96  illegal mass 21.3%
+[ 20/600] SF 1320  model B  score 0.0  checkmate            plies  31  illegal mass 12.6%
+[ 21/600] SF 1320  model W  score 0.0  checkmate            plies  60  illegal mass 18.4%
+[ 22/600] SF 1320  model B  score 0.0  checkmate            plies  87  illegal mass 11.3%
+[ 23/600] SF 1320  model W  score 0.0  checkmate            plies  44  illegal mass 4.1%
+[ 24/600] SF 1320  model W  score 0.0  checkmate            plies 148  illegal mass 22.1%
+[ 25/600] SF 1320  model B  score 0.0  checkmate            plies 135  illegal mass 31.3%
+[ 26/600] SF 1320  model B  score 0.0  checkmate            plies  53  illegal mass 9.4%
+[ 27/600] SF 1320  model B  score 0.0  checkmate            plies  45  illegal mass 11.5%
+[ 28/600] SF 1320  model W  score 0.0  checkmate            plies  66  illegal mass 14.7%
+[ 29/600] SF 1320  model B  score 0.0  checkmate            plies  71  illegal mass 11.8%
+[ 30/600] SF 1320  model B  score 0.0  checkmate            plies  49  illegal mass 10.2%
+[ 31/600] SF 1320  model W  score 0.0  checkmate            plies  76  illegal mass 17.9%
+[ 32/600] SF 1320  model W  score 0.0  checkmate            plies  30  illegal mass 7.4%
+[ 33/600] SF 1320  model B  score 0.0  checkmate            plies  37  illegal mass 6.9%
+[ 34/600] SF 1320  model W  score 0.0  checkmate            plies  56  illegal mass 12.5%
+[ 35/600] SF 1320  model W  score 0.0  checkmate            plies  50  illegal mass 10.8%
+[ 36/600] SF 1320  model B  score 0.0  checkmate            plies 103  illegal mass 12.1%
+[ 37/600] SF 1320  model W  score 0.0  checkmate            plies  44  illegal mass 8.9%
+[ 38/600] SF 1320  model W  score 1.0  checkmate            plies  55  illegal mass 13.5%
+[ 39/600] SF 1320  model B  score 0.0  checkmate            plies  51  illegal mass 5.5%
+[ 40/600] SF 1320  model B  score 0.0  checkmate            plies 107  illegal mass 21.1%
+[ 41/600] SF 1320  model W  score 0.5  threefold_repetition plies 137  illegal mass 31.6%
+[ 42/600] SF 1320  model B  score 0.0  checkmate            plies  57  illegal mass 10.9%
+[ 43/600] SF 1320  model W  score 0.0  checkmate            plies 156  illegal mass 29.5%
+[ 44/600] SF 1320  model B  score 0.5  threefold_repetition plies 128  illegal mass 17.4%
+[ 45/600] SF 1320  model B  score 0.0  checkmate            plies  49  illegal mass 6.7%
+[ 46/600] SF 1320  model W  score 0.5  threefold_repetition plies  81  illegal mass 17.6%
+[ 47/600] SF 1320  model B  score 0.0  checkmate            plies  65  illegal mass 9.9%
+[ 48/600] SF 1320  model B  score 0.5  threefold_repetition plies 144  illegal mass 15.1%
+[ 49/600] SF 1320  model B  score 0.0  checkmate            plies  99  illegal mass 13.4%
+[ 50/600] SF 1320  model W  score 0.0  checkmate            plies 122  illegal mass 18.7%
+[ 51/600] SF 1320  model W  score 0.0  checkmate            plies 144  illegal mass 25.7%
+[ 52/600] SF 1320  model B  score 0.0  checkmate            plies 125  illegal mass 35.2%
+[ 53/600] SF 1320  model W  score 0.0  checkmate            plies  34  illegal mass 3.8%
+[ 54/600] SF 1320  model W  score 0.0  checkmate            plies 118  illegal mass 31.8%
+[ 55/600] SF 1320  model W  score 0.0  checkmate            plies  38  illegal mass 2.4%
+[ 56/600] SF 1320  model W  score 0.0  checkmate            plies  82  illegal mass 25.0%
+[ 57/600] SF 1320  model W  score 0.5  stalemate            plies 121  illegal mass 11.8%
+[ 58/600] SF 1320  model W  score 0.0  checkmate            plies  50  illegal mass 6.1%
+[ 59/600] SF 1320  model B  score 0.0  checkmate            plies  89  illegal mass 14.0%
+[ 60/600] SF 1320  model B  score 0.0  checkmate            plies  39  illegal mass 4.3%
+[ 61/600] SF 1320  model W  score 0.0  checkmate            plies  64  illegal mass 11.7%
+[ 62/600] SF 1320  model B  score 0.0  checkmate            plies  77  illegal mass 19.1%
+[ 63/600] SF 1320  model W  score 0.0  checkmate            plies  66  illegal mass 12.3%
+[ 64/600] SF 1320  model W  score 0.5  threefold_repetition plies  61  illegal mass 10.7%
+[ 65/600] SF 1320  model W  score 0.0  checkmate            plies  64  illegal mass 8.2%
+[ 66/600] SF 1320  model B  score 0.0  checkmate            plies  83  illegal mass 16.4%
+[ 67/600] SF 1320  model B  score 0.5  threefold_repetition plies 146  illegal mass 29.9%
+[ 68/600] SF 1320  model B  score 0.0  checkmate            plies  65  illegal mass 6.7%
+[ 69/600] SF 1320  model B  score 0.0  checkmate            plies  91  illegal mass 8.6%
+[ 70/600] SF 1320  model B  score 0.5  threefold_repetition plies 138  illegal mass 24.7%
+[ 71/600] SF 1320  model B  score 0.0  checkmate            plies  67  illegal mass 15.5%
+[ 72/600] SF 1320  model B  score 0.0  checkmate            plies  43  illegal mass 10.9%
+[ 73/600] SF 1320  model W  score 0.0  checkmate            plies  94  illegal mass 20.5%
+[ 74/600] SF 1320  model B  score 0.0  checkmate            plies  83  illegal mass 10.5%
+[ 75/600] SF 1320  model B  score 0.0  checkmate            plies 131  illegal mass 28.5%
+[ 76/600] SF 1320  model W  score 0.0  checkmate            plies  80  illegal mass 14.0%
+[ 77/600] SF 1320  model B  score 0.0  checkmate            plies 115  illegal mass 22.1%
+[ 78/600] SF 1320  model W  score 0.0  checkmate            plies  88  illegal mass 27.0%
+[ 79/600] SF 1320  model W  score 0.5  stalemate            plies 151  illegal mass 9.4%
+[ 80/600] SF 1320  model B  score 0.0  checkmate            plies  57  illegal mass 14.7%
+[ 81/600] SF 1320  model B  score 0.0  checkmate            plies 103  illegal mass 29.3%
+[ 82/600] SF 1320  model W  score 0.0  checkmate            plies  80  illegal mass 11.9%
+[ 83/600] SF 1320  model W  score 0.5  threefold_repetition plies 191  illegal mass 21.4%
+[ 84/600] SF 1320  model W  score 0.0  checkmate            plies  54  illegal mass 7.8%
+[ 85/600] SF 1320  model B  score 0.0  checkmate            plies  55  illegal mass 9.5%
+[ 86/600] SF 1320  model B  score 0.0  checkmate            plies  85  illegal mass 16.8%
+[ 87/600] SF 1320  model W  score 0.0  checkmate            plies  90  illegal mass 20.6%
+[ 88/600] SF 1320  model W  score 0.5  threefold_repetition plies 181  illegal mass 18.6%
+[ 89/600] SF 1320  model B  score 0.0  checkmate            plies  41  illegal mass 5.7%
+[ 90/600] SF 1320  model W  score 0.0  checkmate            plies  62  illegal mass 9.6%
+[ 91/600] SF 1320  model W  score 0.0  checkmate            plies  78  illegal mass 15.3%
+[ 92/600] SF 1320  model W  score 0.5  stalemate            plies  63  illegal mass 12.3%
+[ 93/600] SF 1320  model B  score 0.0  checkmate            plies  83  illegal mass 19.5%
+[ 94/600] SF 1320  model W  score 0.5  insufficient_material plies 131  illegal mass 26.3%
+[ 95/600] SF 1320  model B  score 0.0  checkmate            plies  53  illegal mass 8.6%
+[ 96/600] SF 1320  model B  score 0.0  checkmate            plies 137  illegal mass 22.1%
+[ 97/600] SF 1320  model W  score 0.0  checkmate            plies  56  illegal mass 8.1%
+[ 98/600] SF 1320  model W  score 0.0  checkmate            plies  92  illegal mass 19.5%
+[ 99/600] SF 1320  model W  score 0.5  threefold_repetition plies  96  illegal mass 11.3%
+[100/600] SF 1320  model B  score 0.0  checkmate            plies  63  illegal mass 15.0%
+[101/600] SF 1320  model W  score 0.0  checkmate            plies 108  illegal mass 10.0%
+[102/600] SF 1320  model W  score 0.0  checkmate            plies  68  illegal mass 6.9%
+[103/600] SF 1320  model B  score 0.5  threefold_repetition plies 140  illegal mass 19.2%
+[104/600] SF 1320  model W  score 0.0  checkmate            plies  64  illegal mass 12.5%
+[105/600] SF 1320  model W  score 0.0  checkmate            plies  52  illegal mass 13.7%
+[106/600] SF 1320  model B  score 0.5  threefold_repetition plies 178  illegal mass 34.3%
+[107/600] SF 1320  model B  score 0.0  checkmate            plies 119  illegal mass 23.9%
+[108/600] SF 1320  model B  score 0.0  checkmate            plies  65  illegal mass 7.5%
+[109/600] SF 1320  model W  score 0.0  checkmate            plies  56  illegal mass 7.7%
+[110/600] SF 1320  model B  score 0.0  checkmate            plies  97  illegal mass 17.7%
+[111/600] SF 1320  model B  score 0.5  threefold_repetition plies  98  illegal mass 10.2%
+[112/600] SF 1320  model B  score 0.5  threefold_repetition plies  88  illegal mass 17.9%
+[113/600] SF 1320  model W  score 0.5  threefold_repetition plies  75  illegal mass 23.1%
+[114/600] SF 1320  model B  score 0.0  checkmate            plies  95  illegal mass 10.9%
+[115/600] SF 1320  model W  score 1.0  checkmate            plies  43  illegal mass 5.3%
+[116/600] SF 1320  model B  score 0.0  checkmate            plies  75  illegal mass 5.9%
+[117/600] SF 1320  model B  score 0.0  checkmate            plies  47  illegal mass 3.6%
+[118/600] SF 1320  model B  score 0.0  checkmate            plies  73  illegal mass 14.7%
+[119/600] SF 1320  model B  score 0.0  checkmate            plies  79  illegal mass 16.5%
+[120/600] SF 1320  model B  score 0.5  threefold_repetition plies 116  illegal mass 13.5%
+[121/600] SF 1320  model W  score 0.5  threefold_repetition plies 106  illegal mass 14.3%
+[122/600] SF 1320  model W  score 1.0  checkmate            plies  35  illegal mass 8.1%
+[123/600] SF 1320  model W  score 0.0  checkmate            plies 176  illegal mass 27.7%
+[124/600] SF 1320  model B  score 0.0  checkmate            plies  21  illegal mass 1.1%
+[125/600] SF 1320  model W  score 0.0  checkmate            plies  74  illegal mass 18.1%
+[126/600] SF 1320  model W  score 0.0  checkmate            plies 126  illegal mass 28.1%
+[127/600] SF 1320  model B  score 0.0  checkmate            plies  73  illegal mass 18.5%
+[128/600] SF 1320  model W  score 0.0  checkmate            plies  54  illegal mass 8.0%
+[129/600] SF 1320  model W  score 0.0  checkmate            plies 156  illegal mass 16.8%
+[130/600] SF 1320  model W  score 1.0  checkmate            plies  49  illegal mass 5.4%
+[131/600] SF 1320  model B  score 0.0  checkmate            plies  63  illegal mass 19.9%
+[132/600] SF 1320  model B  score 0.5  threefold_repetition plies  96  illegal mass 20.6%
+[133/600] SF 1320  model W  score 1.0  checkmate            plies 101  illegal mass 16.0%
+[134/600] SF 1320  model B  score 0.0  checkmate            plies  85  illegal mass 14.0%
+[135/600] SF 1320  model W  score 0.5  threefold_repetition plies  97  illegal mass 16.4%
+[136/600] SF 1320  model W  score 0.0  checkmate            plies  44  illegal mass 12.2%
+[137/600] SF 1320  model B  score 0.0  checkmate            plies 105  illegal mass 14.6%
+[138/600] SF 1320  model W  score 0.0  checkmate            plies  74  illegal mass 15.3%
+[139/600] SF 1320  model B  score 0.5  threefold_repetition plies 100  illegal mass 24.3%
+[140/600] SF 1320  model W  score 0.0  checkmate            plies 116  illegal mass 34.7%
+[141/600] SF 1320  model B  score 0.0  checkmate            plies  95  illegal mass 10.5%
+[142/600] SF 1320  model B  score 0.0  checkmate            plies  65  illegal mass 9.0%
+[143/600] SF 1320  model W  score 0.0  checkmate            plies  54  illegal mass 7.2%
+[144/600] SF 1320  model W  score 0.0  checkmate            plies  42  illegal mass 7.4%
+[145/600] SF 1320  model B  score 0.0  checkmate            plies  59  illegal mass 7.6%
+[146/600] SF 1320  model W  score 0.0  checkmate            plies 130  illegal mass 12.7%
+[147/600] SF 1320  model W  score 0.0  checkmate            plies  78  illegal mass 9.5%
+[148/600] SF 1320  model B  score 0.0  checkmate            plies 125  illegal mass 16.5%
+[149/600] SF 1320  model B  score 0.0  checkmate            plies  59  illegal mass 7.5%
+[150/600] SF 1320  model B  score 0.5  threefold_repetition plies  87  illegal mass 17.2%
+[151/600] SF 1320  model W  score 0.0  checkmate            plies  82  illegal mass 21.2%
+[152/600] SF 1320  model B  score 0.0  checkmate            plies  81  illegal mass 14.7%
+[153/600] SF 1320  model W  score 0.5  stalemate            plies 109  illegal mass 9.8%
+[154/600] SF 1320  model W  score 0.0  checkmate            plies 124  illegal mass 22.6%
+[155/600] SF 1320  model B  score 0.0  checkmate            plies 117  illegal mass 23.6%
+[156/600] SF 1320  model W  score 0.0  checkmate            plies  66  illegal mass 22.2%
+[157/600] SF 1320  model B  score 0.0  checkmate            plies  75  illegal mass 17.7%
+[158/600] SF 1320  model W  score 1.0  checkmate            plies 107  illegal mass 16.1%
+[159/600] SF 1320  model B  score 1.0  checkmate            plies 122  illegal mass 23.4%
+[160/600] SF 1320  model W  score 0.0  checkmate            plies  36  illegal mass 4.4%
+[161/600] SF 1320  model B  score 0.0  checkmate            plies 151  illegal mass 35.1%
+[162/600] SF 1320  model W  score 0.0  checkmate            plies 142  illegal mass 21.5%
+[163/600] SF 1320  model B  score 0.0  checkmate            plies  63  illegal mass 25.0%
+[164/600] SF 1320  model W  score 0.0  checkmate            plies  72  illegal mass 20.6%
+[165/600] SF 1320  model B  score 0.0  checkmate            plies 135  illegal mass 18.0%
+[166/600] SF 1320  model B  score 0.5  threefold_repetition plies  70  illegal mass 13.5%
+[167/600] SF 1320  model W  score 0.0  checkmate            plies  78  illegal mass 13.7%
+[168/600] SF 1320  model B  score 0.5  threefold_repetition plies 104  illegal mass 20.7%
+[169/600] SF 1320  model B  score 0.0  checkmate            plies 119  illegal mass 25.3%
+[170/600] SF 1320  model W  score 0.5  threefold_repetition plies 109  illegal mass 19.3%
+[171/600] SF 1320  model W  score 0.0  checkmate            plies 102  illegal mass 14.9%
+[172/600] SF 1320  model B  score 0.0  checkmate            plies  67  illegal mass 10.9%
+[173/600] SF 1320  model W  score 0.0  checkmate            plies  82  illegal mass 22.8%
+[174/600] SF 1320  model B  score 0.0  checkmate            plies 125  illegal mass 30.4%
+[175/600] SF 1320  model B  score 0.0  checkmate            plies  63  illegal mass 7.1%
+[176/600] SF 1320  model W  score 0.0  checkmate            plies  98  illegal mass 16.1%
+[177/600] SF 1320  model W  score 1.0  checkmate            plies 139  illegal mass 9.9%
+[178/600] SF 1320  model W  score 0.5  threefold_repetition plies 187  illegal mass 20.1%
+[179/600] SF 1320  model W  score 0.0  checkmate            plies  60  illegal mass 11.9%
+[180/600] SF 1320  model B  score 0.0  checkmate            plies 145  illegal mass 20.8%
+[181/600] SF 1320  model B  score 0.0  checkmate            plies  33  illegal mass 4.0%
+[182/600] SF 1320  model W  score 0.0  checkmate            plies  96  illegal mass 24.7%
+[183/600] SF 1320  model B  score 0.0  checkmate            plies  77  illegal mass 16.1%
+[184/600] SF 1320  model W  score 0.0  checkmate            plies  76  illegal mass 8.8%
+[185/600] SF 1320  model W  score 0.0  checkmate            plies  58  illegal mass 5.7%
+[186/600] SF 1320  model W  score 0.0  checkmate            plies  48  illegal mass 9.7%
+[187/600] SF 1320  model B  score 0.5  threefold_repetition plies 238  illegal mass 25.8%
+[188/600] SF 1320  model B  score 0.0  checkmate            plies  57  illegal mass 14.2%
+[189/600] SF 1320  model W  score 0.0  checkmate            plies  58  illegal mass 13.5%
+[190/600] SF 1320  model W  score 0.0  checkmate            plies  92  illegal mass 13.4%
+[191/600] SF 1320  model B  score 0.0  checkmate            plies  57  illegal mass 26.5%
+[192/600] SF 1320  model W  score 1.0  checkmate            plies  75  illegal mass 4.8%
+[193/600] SF 1320  model W  score 0.5  stalemate            plies  69  illegal mass 16.5%
+[194/600] SF 1320  model B  score 0.0  checkmate            plies  35  illegal mass 4.1%
+[195/600] SF 1320  model B  score 0.0  checkmate            plies 127  illegal mass 17.9%
+[196/600] SF 1320  model B  score 0.0  checkmate            plies 129  illegal mass 19.2%
+[197/600] SF 1320  model B  score 0.5  threefold_repetition plies 184  illegal mass 22.0%
+[198/600] SF 1320  model W  score 1.0  checkmate            plies  59  illegal mass 11.4%
+[199/600] SF 1320  model B  score 0.0  checkmate            plies  87  illegal mass 18.4%
+[200/600] SF 1320  model B  score 0.5  threefold_repetition plies  86  illegal mass 28.0%
+[201/600] SF 1500  model W  score 0.0  checkmate            plies  56  illegal mass 11.0%
+[202/600] SF 1500  model W  score 0.0  checkmate            plies  36  illegal mass 4.3%
+[203/600] SF 1500  model W  score 0.0  checkmate            plies  32  illegal mass 2.6%
+[204/600] SF 1500  model B  score 0.0  checkmate            plies  63  illegal mass 12.2%
+[205/600] SF 1500  model B  score 0.0  checkmate            plies  93  illegal mass 8.3%
+[206/600] SF 1500  model B  score 0.0  checkmate            plies  45  illegal mass 4.1%
+[207/600] SF 1500  model B  score 0.0  checkmate            plies  73  illegal mass 26.1%
+[208/600] SF 1500  model W  score 0.0  checkmate            plies  54  illegal mass 3.4%
+[209/600] SF 1500  model B  score 0.0  checkmate            plies  69  illegal mass 7.4%
+[210/600] SF 1500  model W  score 0.0  checkmate            plies  82  illegal mass 8.8%
+[211/600] SF 1500  model W  score 0.0  checkmate            plies  58  illegal mass 14.1%
+[212/600] SF 1500  model W  score 0.0  checkmate            plies 108  illegal mass 18.4%
+[213/600] SF 1500  model W  score 0.0  checkmate            plies 106  illegal mass 20.7%
+[214/600] SF 1500  model B  score 0.0  checkmate            plies  75  illegal mass 13.2%
+[215/600] SF 1500  model B  score 0.5  threefold_repetition plies  58  illegal mass 9.4%
+[216/600] SF 1500  model B  score 0.0  checkmate            plies 123  illegal mass 25.6%
+[217/600] SF 1500  model W  score 0.0  checkmate            plies  42  illegal mass 4.6%
+[218/600] SF 1500  model B  score 0.0  checkmate            plies  55  illegal mass 2.9%
+[219/600] SF 1500  model B  score 0.0  checkmate            plies  85  illegal mass 11.1%
+[220/600] SF 1500  model W  score 0.0  checkmate            plies  94  illegal mass 21.0%
+[221/600] SF 1500  model W  score 0.0  checkmate            plies  86  illegal mass 21.4%
+[222/600] SF 1500  model B  score 0.0  checkmate            plies  57  illegal mass 6.9%
+[223/600] SF 1500  model W  score 0.0  checkmate            plies  34  illegal mass 4.6%
+[224/600] SF 1500  model W  score 0.0  checkmate            plies  60  illegal mass 14.4%
+[225/600] SF 1500  model W  score 0.0  checkmate            plies  56  illegal mass 10.1%
+[226/600] SF 1500  model B  score 0.0  checkmate            plies  91  illegal mass 19.8%
+[227/600] SF 1500  model W  score 0.0  checkmate            plies  82  illegal mass 24.5%
+[228/600] SF 1500  model B  score 0.0  checkmate            plies  49  illegal mass 7.5%
+[229/600] SF 1500  model B  score 0.0  checkmate            plies  91  illegal mass 25.6%
+[230/600] SF 1500  model B  score 0.5  threefold_repetition plies  84  illegal mass 21.7%
+[231/600] SF 1500  model W  score 0.0  checkmate            plies  50  illegal mass 12.4%
+[232/600] SF 1500  model B  score 0.0  checkmate            plies  69  illegal mass 11.6%
+[233/600] SF 1500  model B  score 0.0  checkmate            plies  61  illegal mass 4.2%
+[234/600] SF 1500  model B  score 0.0  checkmate            plies  69  illegal mass 15.4%
+[235/600] SF 1500  model W  score 0.0  checkmate            plies  64  illegal mass 10.1%
+[236/600] SF 1500  model W  score 0.0  checkmate            plies 104  illegal mass 11.2%
+[237/600] SF 1500  model B  score 0.0  checkmate            plies  67  illegal mass 20.5%
+[238/600] SF 1500  model W  score 0.0  checkmate            plies 108  illegal mass 15.1%
+[239/600] SF 1500  model B  score 0.0  checkmate            plies  63  illegal mass 14.8%
+[240/600] SF 1500  model W  score 0.0  checkmate            plies  54  illegal mass 12.4%
+[241/600] SF 1500  model W  score 0.0  checkmate            plies  86  illegal mass 11.7%
+[242/600] SF 1500  model B  score 0.0  checkmate            plies  51  illegal mass 7.0%
+[243/600] SF 1500  model B  score 0.0  checkmate            plies 107  illegal mass 16.6%
+[244/600] SF 1500  model B  score 0.0  checkmate            plies  55  illegal mass 7.9%
+[245/600] SF 1500  model W  score 0.0  checkmate            plies  46  illegal mass 14.0%
+[246/600] SF 1500  model W  score 0.0  checkmate            plies 138  illegal mass 29.0%
+[247/600] SF 1500  model W  score 0.0  checkmate            plies  68  illegal mass 12.9%
+[248/600] SF 1500  model B  score 0.0  checkmate            plies  47  illegal mass 6.0%
+[249/600] SF 1500  model W  score 0.0  checkmate            plies 112  illegal mass 18.7%
+[250/600] SF 1500  model B  score 0.0  checkmate            plies  59  illegal mass 13.5%
+[251/600] SF 1500  model W  score 0.0  checkmate            plies  62  illegal mass 6.9%
+[252/600] SF 1500  model B  score 0.0  checkmate            plies  71  illegal mass 12.4%
+[253/600] SF 1500  model B  score 0.0  checkmate            plies 111  illegal mass 22.7%
+[254/600] SF 1500  model W  score 0.0  checkmate            plies  64  illegal mass 6.9%
+[255/600] SF 1500  model W  score 0.0  checkmate            plies  28  illegal mass 2.0%
+[256/600] SF 1500  model W  score 0.0  checkmate            plies  88  illegal mass 27.5%
+[257/600] SF 1500  model B  score 0.0  checkmate            plies  87  illegal mass 13.8%
+[258/600] SF 1500  model B  score 0.0  checkmate            plies  85  illegal mass 10.1%
+[259/600] SF 1500  model W  score 0.0  checkmate            plies  84  illegal mass 9.9%
+[260/600] SF 1500  model B  score 0.0  checkmate            plies  77  illegal mass 8.3%
+[261/600] SF 1500  model W  score 0.5  threefold_repetition plies  73  illegal mass 12.5%
+[262/600] SF 1500  model B  score 0.5  threefold_repetition plies  74  illegal mass 10.4%
+[263/600] SF 1500  model W  score 0.5  threefold_repetition plies 163  illegal mass 9.6%
+[264/600] SF 1500  model W  score 0.0  checkmate            plies  76  illegal mass 11.7%
+[265/600] SF 1500  model B  score 0.0  checkmate            plies  93  illegal mass 16.5%
+[266/600] SF 1500  model W  score 0.0  checkmate            plies  68  illegal mass 12.0%
+[267/600] SF 1500  model W  score 0.0  checkmate            plies  46  illegal mass 6.4%
+[268/600] SF 1500  model B  score 0.5  threefold_repetition plies  56  illegal mass 13.9%
+[269/600] SF 1500  model W  score 0.0  checkmate            plies  76  illegal mass 12.8%
+[270/600] SF 1500  model B  score 0.0  checkmate            plies  77  illegal mass 17.2%
+[271/600] SF 1500  model B  score 0.5  threefold_repetition plies 122  illegal mass 17.0%
+[272/600] SF 1500  model B  score 0.0  checkmate            plies  63  illegal mass 8.7%
+[273/600] SF 1500  model B  score 0.0  checkmate            plies  87  illegal mass 15.8%
+[274/600] SF 1500  model W  score 0.0  checkmate            plies  66  illegal mass 11.6%
+[275/600] SF 1500  model W  score 0.0  checkmate            plies  72  illegal mass 13.3%
+[276/600] SF 1500  model B  score 0.0  checkmate            plies  83  illegal mass 12.4%
+[277/600] SF 1500  model W  score 0.0  checkmate            plies  62  illegal mass 5.2%
+[278/600] SF 1500  model B  score 0.0  checkmate            plies  75  illegal mass 12.1%
+[279/600] SF 1500  model W  score 0.0  checkmate            plies  42  illegal mass 5.3%
+[280/600] SF 1500  model W  score 0.5  threefold_repetition plies  97  illegal mass 24.9%
+[281/600] SF 1500  model B  score 0.0  checkmate            plies  73  illegal mass 8.3%
+[282/600] SF 1500  model W  score 0.0  checkmate            plies  70  illegal mass 11.0%
+[283/600] SF 1500  model W  score 0.0  checkmate            plies  62  illegal mass 8.1%
+[284/600] SF 1500  model B  score 0.0  checkmate            plies  71  illegal mass 15.0%
+[285/600] SF 1500  model B  score 1.0  checkmate            plies  80  illegal mass 13.5%
+[286/600] SF 1500  model B  score 0.0  checkmate            plies  97  illegal mass 17.6%
+[287/600] SF 1500  model B  score 0.0  checkmate            plies  43  illegal mass 5.9%
+[288/600] SF 1500  model W  score 0.0  checkmate            plies  46  illegal mass 3.5%
+[289/600] SF 1500  model B  score 0.0  checkmate            plies  81  illegal mass 11.8%
+[290/600] SF 1500  model W  score 0.0  checkmate            plies 120  illegal mass 23.0%
+[291/600] SF 1500  model B  score 0.0  checkmate            plies  71  illegal mass 23.7%
+[292/600] SF 1500  model W  score 0.0  checkmate            plies  70  illegal mass 15.8%
+[293/600] SF 1500  model W  score 0.0  checkmate            plies  60  illegal mass 17.6%
+[294/600] SF 1500  model B  score 0.0  checkmate            plies  71  illegal mass 13.3%
+[295/600] SF 1500  model W  score 0.0  checkmate            plies  46  illegal mass 7.6%
+[296/600] SF 1500  model B  score 0.0  checkmate            plies  87  illegal mass 26.1%
+[297/600] SF 1500  model B  score 0.0  checkmate            plies  47  illegal mass 10.2%
+[298/600] SF 1500  model W  score 0.0  checkmate            plies  46  illegal mass 10.6%
+[299/600] SF 1500  model B  score 0.0  checkmate            plies  57  illegal mass 6.6%
+[300/600] SF 1500  model W  score 0.0  checkmate            plies  74  illegal mass 31.7%
+[301/600] SF 1500  model W  score 0.0  checkmate            plies  94  illegal mass 14.1%
+[302/600] SF 1500  model W  score 0.5  threefold_repetition plies  61  illegal mass 9.2%
+[303/600] SF 1500  model B  score 0.0  checkmate            plies  87  illegal mass 16.6%
+[304/600] SF 1500  model W  score 0.0  checkmate            plies  60  illegal mass 12.8%
+[305/600] SF 1500  model B  score 0.5  threefold_repetition plies  82  illegal mass 15.7%
+[306/600] SF 1500  model B  score 0.0  checkmate            plies  55  illegal mass 12.5%
+[307/600] SF 1500  model B  score 0.0  checkmate            plies  53  illegal mass 8.4%
+[308/600] SF 1500  model B  score 0.0  checkmate            plies  43  illegal mass 5.3%
+[309/600] SF 1500  model B  score 0.0  checkmate            plies  79  illegal mass 13.7%
+[310/600] SF 1500  model W  score 0.0  checkmate            plies  70  illegal mass 9.1%
+[311/600] SF 1500  model W  score 0.0  checkmate            plies  78  illegal mass 16.5%
+[312/600] SF 1500  model W  score 0.0  checkmate            plies  64  illegal mass 6.6%
+[313/600] SF 1500  model B  score 0.0  checkmate            plies  57  illegal mass 8.4%
+[314/600] SF 1500  model W  score 0.0  checkmate            plies  52  illegal mass 4.6%
+[315/600] SF 1500  model B  score 0.0  checkmate            plies  47  illegal mass 8.0%
+[316/600] SF 1500  model W  score 0.5  threefold_repetition plies 135  illegal mass 29.6%
+[317/600] SF 1500  model W  score 0.5  threefold_repetition plies 117  illegal mass 27.9%
+[318/600] SF 1500  model W  score 0.0  checkmate            plies  50  illegal mass 4.3%
+[319/600] SF 1500  model W  score 0.0  checkmate            plies  84  illegal mass 21.6%
+[320/600] SF 1500  model B  score 0.0  checkmate            plies 155  illegal mass 25.6%
+[321/600] SF 1500  model B  score 0.0  checkmate            plies  83  illegal mass 14.4%
+[322/600] SF 1500  model W  score 0.0  checkmate            plies  58  illegal mass 6.7%
+[323/600] SF 1500  model W  score 0.0  checkmate            plies  90  illegal mass 19.0%
+[324/600] SF 1500  model B  score 0.5  threefold_repetition plies 116  illegal mass 11.8%
+[325/600] SF 1500  model W  score 0.0  checkmate            plies 100  illegal mass 5.5%
+[326/600] SF 1500  model B  score 0.0  checkmate            plies 107  illegal mass 12.1%
+[327/600] SF 1500  model W  score 0.5  threefold_repetition plies  73  illegal mass 35.5%
+[328/600] SF 1500  model B  score 0.0  checkmate            plies 101  illegal mass 21.7%
+[329/600] SF 1500  model B  score 0.0  checkmate            plies  89  illegal mass 21.4%
+[330/600] SF 1500  model W  score 0.0  checkmate            plies  42  illegal mass 4.0%
+[331/600] SF 1500  model B  score 0.0  checkmate            plies  71  illegal mass 11.2%
+[332/600] SF 1500  model B  score 0.0  checkmate            plies  35  illegal mass 12.2%
+[333/600] SF 1500  model B  score 0.0  checkmate            plies  73  illegal mass 15.0%
+[334/600] SF 1500  model B  score 0.0  checkmate            plies  71  illegal mass 13.8%
+[335/600] SF 1500  model W  score 0.0  checkmate            plies  92  illegal mass 15.7%
+[336/600] SF 1500  model W  score 0.0  checkmate            plies  84  illegal mass 19.9%
+[337/600] SF 1500  model B  score 0.0  checkmate            plies  37  illegal mass 4.6%
+[338/600] SF 1500  model B  score 0.5  threefold_repetition plies  92  illegal mass 18.1%
+[339/600] SF 1500  model W  score 0.5  threefold_repetition plies  73  illegal mass 26.4%
+[340/600] SF 1500  model B  score 1.0  checkmate            plies  64  illegal mass 8.0%
+[341/600] SF 1500  model W  score 0.0  checkmate            plies  28  illegal mass 5.2%
+[342/600] SF 1500  model W  score 0.0  checkmate            plies  44  illegal mass 8.6%
+[343/600] SF 1500  model W  score 0.0  checkmate            plies  74  illegal mass 16.1%
+[344/600] SF 1500  model W  score 0.0  checkmate            plies  58  illegal mass 8.8%
+[345/600] SF 1500  model W  score 0.0  checkmate            plies  44  illegal mass 4.0%
+[346/600] SF 1500  model B  score 0.0  checkmate            plies  83  illegal mass 21.8%
+[347/600] SF 1500  model W  score 0.0  checkmate            plies  90  illegal mass 12.1%
+[348/600] SF 1500  model W  score 0.0  checkmate            plies  64  illegal mass 6.4%
+[349/600] SF 1500  model B  score 0.0  checkmate            plies  81  illegal mass 13.0%
+[350/600] SF 1500  model W  score 0.0  checkmate            plies  66  illegal mass 10.2%
+[351/600] SF 1500  model B  score 0.0  checkmate            plies  81  illegal mass 15.7%
+[352/600] SF 1500  model B  score 0.0  checkmate            plies 115  illegal mass 17.2%
+[353/600] SF 1500  model W  score 0.0  checkmate            plies 126  illegal mass 15.9%
+[354/600] SF 1500  model B  score 0.5  stalemate            plies 118  illegal mass 16.7%
+[355/600] SF 1500  model B  score 0.0  checkmate            plies  49  illegal mass 3.7%
+[356/600] SF 1500  model W  score 0.0  checkmate            plies  52  illegal mass 17.2%
+[357/600] SF 1500  model B  score 0.0  checkmate            plies 163  illegal mass 22.9%
+[358/600] SF 1500  model B  score 0.0  checkmate            plies  83  illegal mass 24.1%
+[359/600] SF 1500  model B  score 0.5  threefold_repetition plies 132  illegal mass 14.7%
+[360/600] SF 1500  model W  score 0.0  checkmate            plies  60  illegal mass 17.1%
+[361/600] SF 1500  model W  score 0.0  checkmate            plies 104  illegal mass 23.3%
+[362/600] SF 1500  model W  score 0.0  checkmate            plies  44  illegal mass 7.8%
+[363/600] SF 1500  model W  score 0.0  checkmate            plies 102  illegal mass 29.1%
+[364/600] SF 1500  model B  score 0.0  checkmate            plies  93  illegal mass 32.4%
+[365/600] SF 1500  model W  score 0.0  checkmate            plies  64  illegal mass 18.1%
+[366/600] SF 1500  model B  score 0.0  checkmate            plies  89  illegal mass 18.3%
+[367/600] SF 1500  model B  score 0.0  checkmate            plies 119  illegal mass 12.4%
+[368/600] SF 1500  model B  score 0.0  checkmate            plies  87  illegal mass 18.3%
+[369/600] SF 1500  model B  score 0.0  checkmate            plies  67  illegal mass 15.5%
+[370/600] SF 1500  model W  score 0.0  checkmate            plies 114  illegal mass 24.1%
+[371/600] SF 1500  model W  score 0.0  checkmate            plies 118  illegal mass 13.0%
+[372/600] SF 1500  model B  score 0.0  checkmate            plies  87  illegal mass 14.4%
+[373/600] SF 1500  model B  score 0.5  threefold_repetition plies 118  illegal mass 12.9%
+[374/600] SF 1500  model W  score 0.5  threefold_repetition plies  93  illegal mass 18.1%
+[375/600] SF 1500  model W  score 0.0  checkmate            plies  90  illegal mass 13.8%
+[376/600] SF 1500  model B  score 0.0  checkmate            plies  65  illegal mass 13.9%
+[377/600] SF 1500  model B  score 0.0  checkmate            plies  61  illegal mass 11.5%
+[378/600] SF 1500  model B  score 0.5  threefold_repetition plies 124  illegal mass 21.2%
+[379/600] SF 1500  model W  score 0.0  checkmate            plies  86  illegal mass 13.6%
+[380/600] SF 1500  model B  score 0.0  checkmate            plies  61  illegal mass 10.4%
+[381/600] SF 1500  model W  score 0.0  checkmate            plies  66  illegal mass 15.7%
+[382/600] SF 1500  model W  score 0.0  checkmate            plies  72  illegal mass 10.9%
+[383/600] SF 1500  model B  score 0.5  threefold_repetition plies  72  illegal mass 8.7%
+[384/600] SF 1500  model W  score 0.0  checkmate            plies  82  illegal mass 11.8%
+[385/600] SF 1500  model W  score 0.0  checkmate            plies 100  illegal mass 8.4%
+[386/600] SF 1500  model B  score 0.0  checkmate            plies  61  illegal mass 8.5%
+[387/600] SF 1500  model B  score 0.0  checkmate            plies  49  illegal mass 3.5%
+[388/600] SF 1500  model W  score 0.0  checkmate            plies  72  illegal mass 14.3%
+[389/600] SF 1500  model W  score 0.0  checkmate            plies 106  illegal mass 13.3%
+[390/600] SF 1500  model B  score 0.5  threefold_repetition plies  90  illegal mass 21.4%
+[391/600] SF 1500  model B  score 0.0  checkmate            plies  49  illegal mass 8.2%
+[392/600] SF 1500  model B  score 0.0  checkmate            plies 131  illegal mass 21.1%
+[393/600] SF 1500  model B  score 0.0  checkmate            plies  67  illegal mass 3.9%
+[394/600] SF 1500  model W  score 0.5  threefold_repetition plies  89  illegal mass 16.4%
+[395/600] SF 1500  model W  score 0.5  threefold_repetition plies  91  illegal mass 13.3%
+[396/600] SF 1500  model W  score 0.0  checkmate            plies  66  illegal mass 8.3%
+[397/600] SF 1500  model B  score 0.0  checkmate            plies  47  illegal mass 5.4%
+[398/600] SF 1700  model W  score 0.0  checkmate            plies  42  illegal mass 3.7%
+[399/600] SF 1700  model W  score 0.0  checkmate            plies  38  illegal mass 17.9%
+[400/600] SF 1700  model B  score 0.0  checkmate            plies  43  illegal mass 11.0%
+[401/600] SF 1500  model W  score 0.5  threefold_repetition plies 127  illegal mass 18.2%
+[402/600] SF 1700  model B  score 0.0  checkmate            plies  59  illegal mass 14.1%
+[403/600] SF 1500  model B  score 0.0  checkmate            plies  83  illegal mass 16.4%
+[404/600] SF 1700  model B  score 0.0  checkmate            plies  85  illegal mass 23.9%
+[405/600] SF 1700  model W  score 0.0  checkmate            plies  90  illegal mass 17.3%
+[406/600] SF 1700  model B  score 0.0  checkmate            plies  45  illegal mass 9.8%
+[407/600] SF 1700  model B  score 0.0  checkmate            plies  69  illegal mass 11.2%
+[408/600] SF 1700  model W  score 1.0  checkmate            plies  61  illegal mass 6.7%
+[409/600] SF 1700  model W  score 0.0  checkmate            plies  86  illegal mass 24.9%
+[410/600] SF 1700  model W  score 0.0  checkmate            plies  70  illegal mass 10.9%
+[411/600] SF 1700  model B  score 0.0  checkmate            plies  57  illegal mass 4.8%
+[412/600] SF 1700  model W  score 0.0  checkmate            plies  62  illegal mass 6.6%
+[413/600] SF 1700  model B  score 0.0  checkmate            plies  71  illegal mass 16.9%
+[414/600] SF 1500  model W  score 0.0  checkmate            plies 152  illegal mass 21.7%
+[415/600] SF 1700  model W  score 0.0  checkmate            plies  60  illegal mass 3.4%
+[416/600] SF 1700  model B  score 0.0  checkmate            plies  69  illegal mass 9.9%
+[417/600] SF 1700  model W  score 0.0  checkmate            plies  62  illegal mass 18.3%
+[418/600] SF 1700  model B  score 0.0  checkmate            plies  51  illegal mass 4.3%
+[419/600] SF 1700  model W  score 0.0  checkmate            plies  56  illegal mass 10.5%
+[420/600] SF 1700  model B  score 0.0  checkmate            plies  89  illegal mass 9.4%
+[421/600] SF 1700  model B  score 0.0  checkmate            plies  61  illegal mass 8.2%
+[422/600] SF 1700  model W  score 0.0  checkmate            plies  48  illegal mass 5.7%
+[423/600] SF 1700  model B  score 0.0  checkmate            plies  49  illegal mass 3.7%
+[424/600] SF 1700  model W  score 0.0  checkmate            plies 116  illegal mass 19.0%
+[425/600] SF 1700  model W  score 0.0  checkmate            plies  94  illegal mass 18.7%
+[426/600] SF 1700  model B  score 0.0  checkmate            plies  49  illegal mass 6.6%
+[427/600] SF 1700  model B  score 0.5  threefold_repetition plies 128  illegal mass 15.1%
+[428/600] SF 1700  model B  score 0.0  checkmate            plies  93  illegal mass 16.8%
+[429/600] SF 1700  model W  score 0.0  checkmate            plies  62  illegal mass 14.3%
+[430/600] SF 1700  model B  score 0.0  checkmate            plies  67  illegal mass 6.7%
+[431/600] SF 1700  model W  score 0.0  checkmate            plies 114  illegal mass 24.9%
+[432/600] SF 1700  model W  score 0.0  checkmate            plies 106  illegal mass 21.2%
+[433/600] SF 1700  model B  score 0.0  checkmate            plies  43  illegal mass 13.0%
+[434/600] SF 1700  model W  score 0.0  checkmate            plies  68  illegal mass 22.4%
+[435/600] SF 1700  model W  score 0.0  checkmate            plies  74  illegal mass 14.0%
+[436/600] SF 1700  model W  score 0.0  checkmate            plies  38  illegal mass 4.7%
+[437/600] SF 1700  model W  score 0.0  checkmate            plies  74  illegal mass 7.5%
+[438/600] SF 1700  model B  score 0.0  checkmate            plies 101  illegal mass 12.7%
+[439/600] SF 1700  model B  score 0.0  checkmate            plies  75  illegal mass 20.0%
+[440/600] SF 1700  model B  score 0.0  checkmate            plies 133  illegal mass 24.8%
+[441/600] SF 1700  model W  score 0.0  checkmate            plies 144  illegal mass 24.2%
+[442/600] SF 1700  model W  score 0.0  checkmate            plies  66  illegal mass 14.8%
+[443/600] SF 1700  model B  score 0.0  checkmate            plies  77  illegal mass 9.1%
+[444/600] SF 1700  model W  score 0.0  checkmate            plies  82  illegal mass 16.6%
+[445/600] SF 1700  model W  score 1.0  checkmate            plies  73  illegal mass 10.4%
+[446/600] SF 1700  model W  score 0.0  checkmate            plies  56  illegal mass 3.7%
+[447/600] SF 1700  model B  score 0.0  checkmate            plies 101  illegal mass 16.0%
+[448/600] SF 1700  model W  score 0.0  checkmate            plies  68  illegal mass 10.7%
+[449/600] SF 1700  model B  score 0.0  checkmate            plies  73  illegal mass 9.6%
+[450/600] SF 1700  model B  score 0.0  checkmate            plies  75  illegal mass 12.2%
+[451/600] SF 1700  model B  score 0.0  checkmate            plies  63  illegal mass 9.6%
+[452/600] SF 1700  model B  score 0.0  checkmate            plies  93  illegal mass 18.9%
+[453/600] SF 1700  model W  score 0.0  checkmate            plies  88  illegal mass 11.0%
+[454/600] SF 1700  model W  score 0.0  checkmate            plies  82  illegal mass 23.8%
+[455/600] SF 1700  model B  score 0.0  checkmate            plies 151  illegal mass 16.8%
+[456/600] SF 1700  model W  score 0.0  checkmate            plies  50  illegal mass 2.7%
+[457/600] SF 1700  model W  score 0.0  checkmate            plies  46  illegal mass 13.6%
+[458/600] SF 1700  model B  score 0.0  checkmate            plies  73  illegal mass 9.6%
+[459/600] SF 1700  model W  score 0.0  checkmate            plies  86  illegal mass 13.8%
+[460/600] SF 1700  model W  score 0.0  checkmate            plies  82  illegal mass 9.4%
+[461/600] SF 1700  model B  score 0.0  checkmate            plies  97  illegal mass 22.7%
+[462/600] SF 1700  model B  score 0.5  threefold_repetition plies 128  illegal mass 30.0%
+[463/600] SF 1700  model B  score 0.0  checkmate            plies 103  illegal mass 23.9%
+[464/600] SF 1700  model W  score 0.0  checkmate            plies  72  illegal mass 11.0%
+[465/600] SF 1700  model B  score 0.0  checkmate            plies  77  illegal mass 10.4%
+[466/600] SF 1700  model B  score 0.0  checkmate            plies  53  illegal mass 14.0%
+[467/600] SF 1700  model B  score 0.0  checkmate            plies  67  illegal mass 12.6%
+[468/600] SF 1700  model W  score 0.0  checkmate            plies  48  illegal mass 6.3%
+[469/600] SF 1700  model W  score 0.0  checkmate            plies  72  illegal mass 13.7%
+[470/600] SF 1700  model W  score 0.0  checkmate            plies  24  illegal mass 1.8%
+[471/600] SF 1700  model B  score 0.0  checkmate            plies  67  illegal mass 12.6%
+[472/600] SF 1700  model W  score 0.0  checkmate            plies  74  illegal mass 26.7%
+[473/600] SF 1700  model W  score 0.0  checkmate            plies  28  illegal mass 1.7%
+[474/600] SF 1700  model W  score 0.0  checkmate            plies  40  illegal mass 6.2%
+[475/600] SF 1700  model B  score 0.0  checkmate            plies  55  illegal mass 7.8%
+[476/600] SF 1700  model B  score 0.0  checkmate            plies  67  illegal mass 15.8%
+[477/600] SF 1700  model B  score 0.0  checkmate            plies  59  illegal mass 6.6%
+[478/600] SF 1700  model B  score 0.0  checkmate            plies  45  illegal mass 13.9%
+[479/600] SF 1700  model W  score 0.0  checkmate            plies  70  illegal mass 12.1%
+[480/600] SF 1700  model B  score 0.0  checkmate            plies  79  illegal mass 14.2%
+[481/600] SF 1700  model W  score 0.0  checkmate            plies  54  illegal mass 21.1%
+[482/600] SF 1700  model B  score 0.0  checkmate            plies 115  illegal mass 23.2%
+[483/600] SF 1700  model W  score 0.0  checkmate            plies 102  illegal mass 13.5%
+[484/600] SF 1700  model B  score 0.0  checkmate            plies  35  illegal mass 1.7%
+[485/600] SF 1700  model W  score 0.0  checkmate            plies  68  illegal mass 23.5%
+[486/600] SF 1700  model B  score 0.0  checkmate            plies  63  illegal mass 8.6%
+[487/600] SF 1700  model W  score 0.0  checkmate            plies  72  illegal mass 13.5%
+[488/600] SF 1700  model W  score 0.0  checkmate            plies  84  illegal mass 9.4%
+[489/600] SF 1700  model B  score 0.0  checkmate            plies 101  illegal mass 13.2%
+[490/600] SF 1700  model B  score 0.0  checkmate            plies  79  illegal mass 13.4%
+[491/600] SF 1700  model B  score 0.5  threefold_repetition plies 148  illegal mass 22.2%
+[492/600] SF 1700  model B  score 0.5  threefold_repetition plies  96  illegal mass 15.2%
+[493/600] SF 1700  model B  score 0.0  checkmate            plies  69  illegal mass 13.4%
+[494/600] SF 1700  model W  score 0.5  threefold_repetition plies 104  illegal mass 12.7%
+[495/600] SF 1700  model W  score 0.0  checkmate            plies  70  illegal mass 20.8%
+[496/600] SF 1700  model W  score 0.0  checkmate            plies  82  illegal mass 10.4%
+[497/600] SF 1700  model W  score 0.0  checkmate            plies 138  illegal mass 25.0%
+[498/600] SF 1700  model B  score 0.0  checkmate            plies  61  illegal mass 17.7%
+[499/600] SF 1700  model B  score 0.0  checkmate            plies  59  illegal mass 28.3%
+[500/600] SF 1700  model W  score 0.0  checkmate            plies  36  illegal mass 9.6%
+[501/600] SF 1700  model W  score 0.0  checkmate            plies  54  illegal mass 17.7%
+[502/600] SF 1700  model B  score 0.0  checkmate            plies  63  illegal mass 9.6%
+[503/600] SF 1700  model B  score 0.0  checkmate            plies  61  illegal mass 7.6%
+[504/600] SF 1700  model W  score 0.0  checkmate            plies  88  illegal mass 21.1%
+[505/600] SF 1700  model W  score 1.0  checkmate            plies  99  illegal mass 7.4%
+[506/600] SF 1700  model B  score 0.0  checkmate            plies  65  illegal mass 9.7%
+[507/600] SF 1700  model B  score 0.0  checkmate            plies  65  illegal mass 7.8%
+[508/600] SF 1700  model B  score 0.0  checkmate            plies  61  illegal mass 11.0%
+[509/600] SF 1700  model W  score 0.5  threefold_repetition plies 103  illegal mass 26.4%
+[510/600] SF 1700  model W  score 0.0  checkmate            plies  58  illegal mass 15.6%
+[511/600] SF 1700  model W  score 0.0  checkmate            plies  92  illegal mass 20.4%
+[512/600] SF 1700  model B  score 0.0  checkmate            plies  65  illegal mass 8.9%
+[513/600] SF 1700  model W  score 0.0  checkmate            plies 104  illegal mass 20.7%
+[514/600] SF 1700  model B  score 0.0  checkmate            plies  69  illegal mass 10.5%
+[515/600] SF 1700  model B  score 0.0  checkmate            plies  75  illegal mass 6.7%
+[516/600] SF 1700  model B  score 0.0  checkmate            plies  53  illegal mass 11.5%
+[517/600] SF 1700  model W  score 0.5  stalemate            plies 105  illegal mass 11.7%
+[518/600] SF 1700  model W  score 0.0  checkmate            plies  86  illegal mass 17.9%
+[519/600] SF 1700  model B  score 1.0  checkmate            plies 122  illegal mass 22.8%
+[520/600] SF 1700  model W  score 0.0  checkmate            plies  50  illegal mass 3.1%
+[521/600] SF 1700  model W  score 0.0  checkmate            plies  58  illegal mass 9.9%
+[522/600] SF 1700  model B  score 0.0  checkmate            plies  61  illegal mass 9.7%
+[523/600] SF 1700  model W  score 0.0  checkmate            plies  56  illegal mass 9.3%
+[524/600] SF 1700  model W  score 0.5  threefold_repetition plies 133  illegal mass 17.8%
+[525/600] SF 1700  model B  score 0.0  checkmate            plies  57  illegal mass 14.0%
+[526/600] SF 1700  model B  score 0.0  checkmate            plies  41  illegal mass 1.9%
+[527/600] SF 1700  model B  score 0.0  checkmate            plies  47  illegal mass 15.2%
+[528/600] SF 1700  model W  score 0.0  checkmate            plies  44  illegal mass 7.5%
+[529/600] SF 1700  model W  score 0.0  checkmate            plies  58  illegal mass 11.2%
+[530/600] SF 1700  model W  score 0.0  checkmate            plies  50  illegal mass 5.7%
+[531/600] SF 1700  model B  score 0.0  checkmate            plies  51  illegal mass 10.6%
+[532/600] SF 1700  model W  score 0.0  checkmate            plies  36  illegal mass 9.8%
+[533/600] SF 1700  model B  score 0.0  checkmate            plies 119  illegal mass 22.9%
+[534/600] SF 1700  model W  score 0.0  checkmate            plies  26  illegal mass 3.7%
+[535/600] SF 1700  model W  score 0.0  checkmate            plies  42  illegal mass 9.9%
+[536/600] SF 1700  model B  score 0.0  checkmate            plies  57  illegal mass 13.6%
+[537/600] SF 1700  model B  score 0.0  checkmate            plies  41  illegal mass 19.4%
+[538/600] SF 1700  model B  score 0.0  checkmate            plies  55  illegal mass 11.2%
+[539/600] SF 1700  model W  score 0.0  checkmate            plies  46  illegal mass 2.1%
+[540/600] SF 1700  model B  score 0.0  checkmate            plies  37  illegal mass 6.4%
+[541/600] SF 1700  model B  score 0.5  threefold_repetition plies  76  illegal mass 11.1%
+[542/600] SF 1700  model W  score 0.0  checkmate            plies  82  illegal mass 20.6%
+[543/600] SF 1700  model B  score 0.0  checkmate            plies  89  illegal mass 13.6%
+[544/600] SF 1700  model W  score 0.0  checkmate            plies  54  illegal mass 7.2%
+[545/600] SF 1700  model W  score 0.0  checkmate            plies  80  illegal mass 12.4%
+[546/600] SF 1700  model W  score 0.5  threefold_repetition plies  95  illegal mass 22.6%
+[547/600] SF 1700  model B  score 0.0  checkmate            plies  53  illegal mass 5.4%
+[548/600] SF 1700  model B  score 0.0  checkmate            plies  95  illegal mass 26.1%
+[549/600] SF 1700  model W  score 0.0  checkmate            plies  62  illegal mass 5.0%
+[550/600] SF 1700  model W  score 0.0  checkmate            plies  38  illegal mass 8.3%
+[551/600] SF 1700  model B  score 0.0  checkmate            plies  97  illegal mass 20.0%
+[552/600] SF 1700  model B  score 0.0  checkmate            plies  45  illegal mass 11.8%
+[553/600] SF 1700  model W  score 0.0  checkmate            plies  82  illegal mass 6.8%
+[554/600] SF 1700  model W  score 0.0  checkmate            plies  54  illegal mass 13.8%
+[555/600] SF 1700  model B  score 0.0  checkmate            plies  57  illegal mass 6.7%
+[556/600] SF 1700  model B  score 0.0  checkmate            plies  85  illegal mass 14.5%
+[557/600] SF 1700  model W  score 0.0  checkmate            plies  50  illegal mass 9.0%
+[558/600] SF 1700  model B  score 0.0  checkmate            plies  69  illegal mass 16.8%
+[559/600] SF 1700  model W  score 0.5  threefold_repetition plies 123  illegal mass 27.5%
+[560/600] SF 1700  model W  score 0.0  checkmate            plies  38  illegal mass 2.8%
+[561/600] SF 1700  model W  score 0.0  checkmate            plies 104  illegal mass 13.0%
+[562/600] SF 1700  model W  score 0.0  checkmate            plies  50  illegal mass 7.3%
+[563/600] SF 1700  model B  score 0.0  checkmate            plies 139  illegal mass 18.1%
+[564/600] SF 1700  model B  score 0.0  checkmate            plies  45  illegal mass 5.8%
+[565/600] SF 1700  model B  score 0.0  checkmate            plies  63  illegal mass 11.6%
+[566/600] SF 1700  model B  score 0.5  threefold_repetition plies  96  illegal mass 12.5%
+[567/600] SF 1700  model W  score 0.0  checkmate            plies  68  illegal mass 11.1%
+[568/600] SF 1700  model W  score 0.0  checkmate            plies  60  illegal mass 7.1%
+[569/600] SF 1700  model B  score 0.0  checkmate            plies  75  illegal mass 8.7%
+[570/600] SF 1700  model B  score 0.0  checkmate            plies  73  illegal mass 11.2%
+[571/600] SF 1700  model W  score 0.0  checkmate            plies  72  illegal mass 9.4%
+[572/600] SF 1700  model W  score 0.5  threefold_repetition plies  30  illegal mass 9.0%
+[573/600] SF 1700  model B  score 0.0  checkmate            plies  61  illegal mass 5.2%
+[574/600] SF 1700  model W  score 0.0  checkmate            plies  64  illegal mass 6.2%
+[575/600] SF 1700  model B  score 0.0  checkmate            plies  71  illegal mass 13.6%
+[576/600] SF 1700  model B  score 0.0  checkmate            plies  51  illegal mass 5.8%
+[577/600] SF 1700  model B  score 0.5  threefold_repetition plies  80  illegal mass 7.9%
+[578/600] SF 1700  model W  score 0.0  checkmate            plies  78  illegal mass 13.4%
+[579/600] SF 1700  model W  score 0.0  checkmate            plies  72  illegal mass 18.7%
+[580/600] SF 1700  model B  score 0.0  checkmate            plies  71  illegal mass 16.2%
+[581/600] SF 1700  model B  score 0.0  checkmate            plies  81  illegal mass 11.6%
+[582/600] SF 1700  model W  score 0.0  checkmate            plies 120  illegal mass 23.9%
+[583/600] SF 1700  model B  score 0.0  checkmate            plies  65  illegal mass 14.8%
+[584/600] SF 1700  model W  score 0.0  checkmate            plies  56  illegal mass 12.8%
+[585/600] SF 1700  model W  score 0.0  checkmate            plies  70  illegal mass 5.3%
+[586/600] SF 1700  model B  score 0.0  checkmate            plies  31  illegal mass 1.4%
+[587/600] SF 1700  model B  score 0.0  checkmate            plies  73  illegal mass 11.1%
+[588/600] SF 1700  model W  score 0.0  checkmate            plies  84  illegal mass 23.5%
+[589/600] SF 1700  model B  score 0.0  checkmate            plies  47  illegal mass 4.1%
+[590/600] SF 1700  model W  score 0.0  checkmate            plies  60  illegal mass 7.4%
+[591/600] SF 1700  model W  score 0.0  checkmate            plies  58  illegal mass 16.4%
+[592/600] SF 1700  model B  score 0.0  checkmate            plies  87  illegal mass 10.9%
+[593/600] SF 1700  model W  score 0.0  checkmate            plies  60  illegal mass 6.5%
+[594/600] SF 1700  model B  score 0.0  checkmate            plies  59  illegal mass 14.0%
+[595/600] SF 1700  model B  score 0.0  checkmate            plies  73  illegal mass 11.1%
+[596/600] SF 1700  model W  score 0.0  checkmate            plies  68  illegal mass 17.9%
+[597/600] SF 1700  model B  score 0.0  checkmate            plies  67  illegal mass 12.5%
+[598/600] SF 1700  model W  score 0.5  threefold_repetition plies 111  illegal mass 26.5%
+[599/600] SF 1700  model W  score 0.0  checkmate            plies  74  illegal mass 12.1%
+[600/600] SF 1700  model B  score 0.0  checkmate            plies  85  illegal mass 16.9%
+
+ SF Elo  games    W    D    L   score  as White  as Black  avg plies
+   1320    200   12   36  152   15.0%     19.0%     11.0%         88
+   1500    200    2   26  172    7.5%      6.0%      9.0%         77
+   1700    200    4   15  181    5.8%      7.0%      4.5%         72
+
+Estimated Elo (Stockfish UCI_Elo scale): 1061  (95% interval 1011-1108)
+took 376s

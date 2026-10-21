@@ -1,0 +1,11 @@
+15,000 positions from 1,500 val games; group sizes: all 15,000, moves 1-10 4,945, moves 11-20 4,744, moves 21-30 2,906, moves 31+ 2,405, in check 1,030, endgame (<=10 pieces) 776
+
+5: + legal head 30M  (chess_board_fast_allpos_flip_hist8_legal_30M_decayed.pt)
+  group                  illegal mass   top-1  top pick illegal
+  all                            5.2%   51.3%             0.05%
+  moves 1-10                     0.8%   50.7%             0.00%
+  moves 11-20                    4.5%   49.7%             0.06%
+  moves 21-30                    8.7%   51.7%             0.03%
+  moves 31+                     11.2%   55.1%             0.12%
+  in check                       3.1%   73.6%             0.29%
+  endgame (<=10 pieces)         10.2%   59.8%             0.13%

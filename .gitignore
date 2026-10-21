@@ -1,0 +1,33 @@
+# environments
+venv/
+.venv/
+myenv/
+env/
+node_modules/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# data / models / binaries
+*.pt
+*.pth
+*.pkl
+*.bin
+*.arrow
+*.parquet
+*.safetensors
+*.db
+*.sqlite
+*.exe
+*.zip
+*.rar
+data/
+models/
+stockfish/

@@ -1,0 +1,33 @@
+15,000 positions from 1,500 val games; group sizes: all 15,000, moves 1-10 4,945, moves 11-20 4,744, moves 21-30 2,906, moves 31+ 2,405, in check 1,030, endgame (<=10 pieces) 776
+
+3: board 16M  (chess_board_best.pt)
+  group                  illegal mass   top-1  top pick illegal
+  all                           10.3%   36.6%             3.86%
+  moves 1-10                     1.6%   47.2%             0.20%
+  moves 11-20                    9.1%   35.1%             2.28%
+  moves 21-30                   16.6%   28.2%             6.06%
+  moves 31+                     22.8%   27.9%            11.85%
+  in check                      41.4%   45.9%            26.41%
+  endgame (<=10 pieces)         22.6%   30.8%            12.76%
+
+4: flip+hist8 16M  (chess_board_fast_allpos_flip_hist8_16M_decayed.pt)
+  group                  illegal mass   top-1  top pick illegal
+  all                            7.0%   49.2%             0.16%
+  moves 1-10                     1.1%   50.4%             0.02%
+  moves 11-20                    6.2%   47.9%             0.13%
+  moves 21-30                   11.7%   48.6%             0.34%
+  moves 31+                     15.4%   49.8%             0.29%
+  in check                       5.8%   69.9%             0.68%
+  endgame (<=10 pieces)         14.6%   54.3%             0.26%
+
+5: + legal head 16M  (chess_board_fast_allpos_flip_hist8_legal_16M_decayed.pt)
+  group                  illegal mass   top-1  top pick illegal
+  all                            6.0%   50.1%             0.05%
+  moves 1-10                     0.9%   50.3%             0.00%
+  moves 11-20                    5.3%   48.0%             0.00%
+  moves 21-30                   10.3%   50.8%             0.14%
+  moves 31+                     12.7%   53.0%             0.17%
+  in check                       4.2%   71.0%             0.19%
+  endgame (<=10 pieces)         11.0%   56.6%             0.00%
+
+[exited with code 0]

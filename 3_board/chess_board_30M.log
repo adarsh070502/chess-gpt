@@ -1,0 +1,261 @@
+16M run ended at Tue Oct  6 09:12:13 PM IST 2026, starting 30M
+positions: train 27,014,690, val 3,001,640
+Total parameters: 29.44M
+Loss at step 0: train 7.7319, val 7.7365, val acc 0.0%, lr 3.00e-07
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 500: train 5.5573, val 5.5689, val acc 9.5%, lr 1.50e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 1000: train 4.9348, val 4.9139, val acc 12.5%, lr 3.00e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 1500: train 4.2286, val 4.2206, val acc 15.4%, lr 3.00e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 2000: train 3.8680, val 3.8374, val acc 17.6%, lr 3.00e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 2500: train 3.6119, val 3.6183, val acc 19.2%, lr 2.99e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 3000: train 3.4812, val 3.4853, val acc 20.0%, lr 2.99e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 3500: train 3.3928, val 3.3948, val acc 20.6%, lr 2.98e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 4000: train 3.3283, val 3.3297, val acc 21.3%, lr 2.98e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 4500: train 3.2370, val 3.2821, val acc 21.1%, lr 2.97e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 5000: train 3.2215, val 3.2012, val acc 22.4%, lr 2.96e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 5500: train 3.1397, val 3.1247, val acc 23.3%, lr 2.94e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 6000: train 3.1340, val 3.1302, val acc 22.6%, lr 2.93e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 6500: train 3.0811, val 3.0778, val acc 23.4%, lr 2.92e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 7000: train 3.0758, val 3.0493, val acc 24.1%, lr 2.90e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 7500: train 3.0368, val 3.0436, val acc 25.0%, lr 2.88e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 8000: train 2.9623, val 2.9869, val acc 24.7%, lr 2.87e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 8500: train 2.9954, val 2.9829, val acc 24.9%, lr 2.85e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 9000: train 2.9712, val 2.9603, val acc 24.7%, lr 2.83e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 9500: train 2.9397, val 2.9306, val acc 24.9%, lr 2.80e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 10000: train 2.9050, val 2.9011, val acc 26.2%, lr 2.78e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 10500: train 2.9038, val 2.8925, val acc 26.1%, lr 2.76e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 11000: train 2.8848, val 2.8805, val acc 25.8%, lr 2.73e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 11500: train 2.8777, val 2.8820, val acc 25.9%, lr 2.71e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 12000: train 2.8419, val 2.8611, val acc 26.3%, lr 2.68e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 12500: train 2.8357, val 2.8336, val acc 27.2%, lr 2.65e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 13000: train 2.8292, val 2.8484, val acc 26.6%, lr 2.62e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 13500: train 2.8216, val 2.8412, val acc 26.7%, lr 2.59e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 14000: train 2.7749, val 2.7984, val acc 26.9%, lr 2.56e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 14500: train 2.7838, val 2.8090, val acc 26.8%, lr 2.53e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 15000: train 2.7992, val 2.8078, val acc 26.5%, lr 2.49e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 15500: train 2.7826, val 2.7565, val acc 27.7%, lr 2.46e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 16000: train 2.7130, val 2.7619, val acc 27.4%, lr 2.42e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 16500: train 2.7449, val 2.7635, val acc 27.4%, lr 2.39e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 17000: train 2.7419, val 2.7271, val acc 27.5%, lr 2.35e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 17500: train 2.7131, val 2.7246, val acc 28.4%, lr 2.31e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 18000: train 2.7240, val 2.7324, val acc 28.0%, lr 2.27e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 18500: train 2.6925, val 2.6925, val acc 28.9%, lr 2.24e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 19000: train 2.6855, val 2.6858, val acc 29.0%, lr 2.20e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 19500: train 2.6387, val 2.6687, val acc 28.7%, lr 2.16e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 20000: train 2.6669, val 2.6854, val acc 28.8%, lr 2.12e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 20500: train 2.6575, val 2.6586, val acc 29.0%, lr 2.08e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 21000: train 2.6001, val 2.6489, val acc 29.3%, lr 2.03e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 21500: train 2.6378, val 2.6398, val acc 29.2%, lr 1.99e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 22000: train 2.6322, val 2.6156, val acc 30.1%, lr 1.95e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 22500: train 2.6173, val 2.6005, val acc 30.0%, lr 1.91e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 23000: train 2.5943, val 2.6323, val acc 29.5%, lr 1.87e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 23500: train 2.5831, val 2.5739, val acc 30.8%, lr 1.82e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 24000: train 2.5799, val 2.5766, val acc 30.1%, lr 1.78e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 24500: train 2.5620, val 2.5581, val acc 30.1%, lr 1.74e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 25000: train 2.5657, val 2.5773, val acc 30.0%, lr 1.69e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 25500: train 2.5467, val 2.5213, val acc 30.8%, lr 1.65e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 26000: train 2.5481, val 2.5504, val acc 30.5%, lr 1.61e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 26500: train 2.5336, val 2.5424, val acc 30.2%, lr 1.56e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 27000: train 2.5261, val 2.5311, val acc 30.9%, lr 1.52e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 27500: train 2.4833, val 2.5265, val acc 31.0%, lr 1.48e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 28000: train 2.4875, val 2.5412, val acc 30.6%, lr 1.43e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 28500: train 2.5210, val 2.5008, val acc 31.5%, lr 1.39e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 29000: train 2.4808, val 2.4667, val acc 31.7%, lr 1.35e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 29500: train 2.4745, val 2.4577, val acc 31.6%, lr 1.31e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 30000: train 2.5037, val 2.4821, val acc 31.2%, lr 1.27e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 30500: train 2.4710, val 2.4653, val acc 31.9%, lr 1.22e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 31000: train 2.4419, val 2.4544, val acc 32.0%, lr 1.18e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 31500: train 2.4404, val 2.4761, val acc 31.7%, lr 1.14e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 32000: train 2.4388, val 2.4197, val acc 33.2%, lr 1.10e-04
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 32500: train 2.4240, val 2.4240, val acc 32.4%, lr 1.06e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 33000: train 2.4195, val 2.4235, val acc 32.5%, lr 1.03e-04
+Model saved to chess_board_30M_latest.pt
+Loss at step 33500: train 2.4281, val 2.4311, val acc 32.7%, lr 9.88e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 34000: train 2.4099, val 2.4122, val acc 33.2%, lr 9.50e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 34500: train 2.3953, val 2.4113, val acc 33.0%, lr 9.14e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 35000: train 2.4115, val 2.3964, val acc 32.9%, lr 8.78e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 35500: train 2.3797, val 2.3764, val acc 33.2%, lr 8.43e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 36000: train 2.3929, val 2.3954, val acc 32.7%, lr 8.08e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 36500: train 2.3630, val 2.3889, val acc 33.3%, lr 7.75e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 37000: train 2.3464, val 2.3875, val acc 32.9%, lr 7.42e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 37500: train 2.3644, val 2.3647, val acc 33.7%, lr 7.11e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 38000: train 2.3431, val 2.3360, val acc 34.0%, lr 6.80e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 38500: train 2.3198, val 2.3551, val acc 33.7%, lr 6.51e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 39000: train 2.3154, val 2.3445, val acc 33.8%, lr 6.22e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 39500: train 2.3503, val 2.3476, val acc 33.9%, lr 5.95e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 40000: train 2.3358, val 2.3169, val acc 34.7%, lr 5.68e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 40500: train 2.3238, val 2.3479, val acc 33.4%, lr 5.43e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 41000: train 2.3159, val 2.3394, val acc 34.3%, lr 5.19e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 41500: train 2.3002, val 2.3352, val acc 34.4%, lr 4.96e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 42000: train 2.3138, val 2.3237, val acc 34.1%, lr 4.74e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 42500: train 2.3070, val 2.2979, val acc 35.0%, lr 4.53e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 43000: train 2.2876, val 2.3141, val acc 34.4%, lr 4.34e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 43500: train 2.2961, val 2.3021, val acc 34.9%, lr 4.16e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 44000: train 2.3033, val 2.2991, val acc 35.1%, lr 3.99e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 44500: train 2.2934, val 2.3187, val acc 34.5%, lr 3.83e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 45000: train 2.2909, val 2.3016, val acc 34.7%, lr 3.69e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 45500: train 2.2859, val 2.3019, val acc 34.6%, lr 3.56e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 46000: train 2.2794, val 2.3038, val acc 34.9%, lr 3.44e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 46500: train 2.2659, val 2.2775, val acc 36.2%, lr 3.34e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 47000: train 2.2869, val 2.2769, val acc 35.5%, lr 3.25e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 47500: train 2.2936, val 2.2915, val acc 35.0%, lr 3.17e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 48000: train 2.2717, val 2.3055, val acc 34.5%, lr 3.11e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 48500: train 2.2959, val 2.3023, val acc 34.5%, lr 3.06e-05
+Model saved to chess_board_30M_latest.pt
+Loss at step 49000: train 2.2854, val 2.2691, val acc 35.3%, lr 3.03e-05
+Model saved to chess_board_30M_latest.pt
+Model saved to chess_board_30M_best.pt
+Loss at step 49500: train 2.3030, val 2.2779, val acc 35.7%, lr 3.01e-05
+Model saved to chess_board_30M_latest.pt
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 b6 5. c3 Bb7 6. Bd3 Nc6 7. Nbd2 Be7 8. O-O O-O 9. Nh4 cxd4 10. exd4 Ne8 11. Be5 Nxe5 12. dxe5 Bxh4 13. Nf3 Bxf3 14. Qxf3 d5 15. Qf6 Nxf6 16. exf6 Bxf6 17. Rad1 Qc7 18. b4 Rac8 19. Bc2 Bxc3 20. Rd3 Qc4 21. Rdd1 Rcd8 22. Rb1 Qxf1+ 23. Kxf1 Bf6 24. Bb3 Bc3 25. Rd1 b5 26. a4 Bxb4 27. axb5 Ba5 28. Ke2 Bb6 29. Ba4 Rd7 30. Kf1 Rfd8 31. Ke2 a6 32. bxa6 Rc7 33. Rc1 Rdc8 34. Bb5 Bxf2 35. Rc6 Bb6 36. Kf3 Bf2 37. g3 Ra7 38. g4 Rb8 39. g5 Bd4 40. Bd3 Be5 41. h4 Bd4 42. Rc7 h6 43. Rxf7 Rb6 44. Rb7 hxg5 45. hxg5 g6 46. Rb8+ Kg7 47. Kg3 Rxb8 48. Bxg6 Rc8 49. Bd3 Rf7 50. Kh4 Bc3 51. a7 Rh8+ 52. Kg3 Ra8 53. Kh3 Bd4 54. Kh4 Raxa7 55. Bh7 Kxh7 56. Kg4 Rg7 57. Kh5 Kg8 58. Kh6 Bc3 59. g6 e5 60. Kh5 Bd4 61. Kh6 Rxg6+ 62. Kxg6 Kf8 63. Kf5 Kf7 64. Kg5 Ke6 65. Kg6 Kd6 66. Kg5 Ra2 67. Kh4 Bc5 68. Kh5 Rb2 69. Kg4 d4 70. Kf5 Ra2 71. Kg5 Ke7 72. Kg6 Rh2 73. Kg7 Bd6 74. Kg6 Ke6 75. Kg5 e4 76. Kg4 Ke7 77. Kf5 Ke8 78. Kxe4 Bb8 79. Kxd4 Kf7 80. Kd5 Kf6 81. Ke4 Bc7 82. Kf3 Ke6 83. Kg4 Kd6 84. Kf3 Bd8 85. Kg4 Rg2+ 86. Kf5 Kc5 87. Ke4 Rf2 88. Ke5 Kc4 89. Ke6 Kd4 90. Kd6 Bb6 91. Ke7 Kc5 92. Kd7 Rf4 93. Kc8 Rf3 94. Kb7 Kc4 95. Kxb6 Kd5 96. Kb7 Kc5 97. Kb8 Kb6 98. Kc8 Rg3 99. Kb8 Rc3 100. Ka8 Rb3
+Result: * after 200 plies
+Model saved to chess_board_30M.pt
