@@ -30,6 +30,10 @@ Run everything from the parent folder of the repo, for example:
 
 App ports: 7860 move tokens, 7861 board (3), 7862 flip + history (4), 7863 legal (5).
 
+`huggingface/space/` is the public demo ([adarsh-007/chess-gpt](https://huggingface.co/spaces/adarsh-007/chess-gpt)).
+Its *Varied* mode uses top-k sampling: the 5 most likely legal moves, drawn by their probabilities (`SAMPLE_TOP_K`
+in `app.py`). Run it locally from `huggingface/space/` with `python app.py` (downloads the weights on first start).
+
 Notes:
 - `1_character_level/`: its training text (`games2.txt`) no longer exists; the checkpoint and app still work.
 - `4_board_flip_hist8/inference/chess_board_v3_60M_*.pt` are from a 500-step test of the 60M under an old name;

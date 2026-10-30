@@ -3,7 +3,7 @@ Hugging Face Space: play against Chess GPT, a transformer trained from scratch o
 
 The model (30M or 16M) sees the current board from the side to move + the last 8 moves and gives a probability
 for each of the 1,968 possible moves. By default it plays its most likely legal move ("Strongest"); "Varied" picks a
-legal move at random, weighted by those probabilities, so games differ. It is always told that it wins; the ratings
+legal move at random among its top 5, weighted by those probabilities, so games differ. It is always told that it wins; the ratings
 are the user's choice, defaulting to 2400 / 2400 as in the Elo test (the strength reported on the model card).
 model.py downloads the weights from the model repo and does the encoding; everything below works with normal moves.
 """
@@ -28,10 +28,11 @@ def _zerogpu_placeholder():
     pass
 
 TOP_K = 5             # moves shown in the log
+SAMPLE_TOP_K = 5      # "Varied" samples only among the model's 5 most likely legal moves
 ELOS = [str(e) for e in range(800, 2401, 200)]   # rating buckets used in training: <elo_800> ... <elo_2400>
 DEFAULT_ELO = "2400"  # both ratings default to 2400, as in the Elo test
 STRONGEST = "Strongest (always its top move)"
-VARIED = "Varied (random, weighted by its probabilities)"
+VARIED = f"Varied (random among its top {SAMPLE_TOP_K}, weighted by its probabilities)"
 
 # ---------------------------------------------------------------- model loading
 MODELS = {size: ChessModel(size) for size in MODEL_SIZES}
@@ -44,8 +45,8 @@ def model_move(st):
     """The model's move, plus what the log shows: its probability, the probability the model put on illegal moves,
     and its top moves (legal or not).
     STRONGEST: the most likely legal move (same position -> same move, so the same opening every game).
-    VARIED: a legal move drawn at random with the model's probabilities as weights, so a move it gives 40% is
-            played about 40% of the time: different games, but still moves the model believes in."""
+    VARIED: top-k sampling, as in Karpathy's generate(): keep the SAMPLE_TOP_K most likely legal moves and draw one
+            with the model's probabilities as weights. Games differ, but a 1% blunder can never be picked."""
     board, net = st["board"], MODELS[st["model"]]
     legal = {m.uci(): m for m in board.legal_moves}
 
@@ -60,7 +61,9 @@ def model_move(st):
     legal_ids = torch.tensor([net.move_to_id[u] for u in legal], dtype=torch.long)
     legal_probs = probs[legal_ids]
     if st["choice"] == VARIED:
-        best = legal_ids[torch.multinomial(legal_probs, 1)].item()   # multinomial renormalises the legal probs itself
+        # top-k sampling: keep the k most likely legal moves, draw one by their probabilities
+        k_probs, k_idx = legal_probs.topk(min(SAMPLE_TOP_K, len(legal_ids)))
+        best = legal_ids[k_idx[torch.multinomial(k_probs, 1)]].item()   # multinomial renormalises k_probs itself
     else:
         best = legal_ids[legal_probs.argmax()].item()                # top legal move: the model's strongest setting
 
@@ -233,8 +236,8 @@ rights, en passant) and the **last 8 moves**. It doesn't see the rest of the gam
 threefold repetition. It is always told that it wins the game.
 
 **Move choice**: *Strongest* always plays the model's most likely legal move (its strongest setting, used to
-measure its Elo), so it opens the same way every game. *Varied* picks a legal move at random, weighted by the
-model's probabilities: a move it rates 40% is played about 40% of the time, so every game is different.
+measure its Elo), so it opens the same way every game. *Varied* picks at random among the model's {SAMPLE_TOP_K}
+most likely legal moves, weighted by its probabilities, so every game is different but unlikely blunders are never played.
 
 **Ratings** are given to the model like in training: it imitates a game between players of those ratings.
 The default (both 2400) is its strongest setting and the one used to measure its Elo; lower ratings make it play

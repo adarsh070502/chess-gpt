@@ -22,4 +22,8 @@ last 8 moves.
 
 Two sizes: **30M** (≈1558 Elo vs Stockfish, 50.8% human move-match) and **16M** (≈1492, 49.9%).
 
+Move choice: **Strongest** always plays the model's most likely legal move (the setting the Elo was measured with).
+**Varied** uses top-k sampling: it keeps the model's 5 most likely legal moves and picks one at random, weighted by
+their probabilities, so games differ but low-probability blunders are never played.
+
 Model card, numbers and how they were measured: [adarsh-007/chess-gpt-board](https://huggingface.co/adarsh-007/chess-gpt-board).
